@@ -1,0 +1,6 @@
+2021-01-29 22:52:18 DEBUG root:12 - Input string - hello dear   friends
+2021-01-29 22:52:18 DEBUG root:30 - Output string - hello dear   friendj
+2021-01-29 22:52:35 DEBUG root:12 - Input string - hello dear   friends
+2021-01-29 22:52:35 DEBUG root:30 - Output string - hello dear   friendj
+2021-01-29 22:54:47 DEBUG root:35 - Input string - hello ear   friends
+2021-01-29 22:54:47 DEBUG root:53 - Output string - hello ear   
