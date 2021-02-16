@@ -2,7 +2,7 @@ package com.epam.task.second.logic;
 
 import com.epam.task.second.entities.Strings;
 
-public class SymbolStringTextLogic implements TextLogic{
+public class SymbolStringTextLogic extends TextLogic{
     @Override
     public Strings replaseKSymbolWithAnotherSymbol(Strings string, char symbol,int position) {
         char[] text = string.toChar();

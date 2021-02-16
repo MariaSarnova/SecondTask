@@ -6,7 +6,7 @@ import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class RegexTextLogic implements TextLogic{
+public class RegexTextLogic extends TextLogic{
     @Override
     public Strings replaseKSymbolWithAnotherSymbol(Strings string, char symbol, int position) {
         throw new NotImplementedException();

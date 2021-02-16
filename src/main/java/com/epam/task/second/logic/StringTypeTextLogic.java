@@ -4,7 +4,7 @@ import com.epam.task.second.entities.Strings;
 
 import org.apache.log4j.Logger;
 
-public class StringTypeTextLogic implements TextLogic{
+public class StringTypeTextLogic extends TextLogic{
     private final static Logger LOGGER=Logger.getRootLogger();
 
     public Strings replaseKSymbolWithAnotherSymbol(final Strings string, char symbol,int position){
